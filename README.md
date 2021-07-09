@@ -6,7 +6,7 @@ Sprocket Central is a company that specializes in high quality bikes and cycling
 
 ### Task 1: https://github.com/Haseeb983/KPMG-Data-Analytics-Consulting-Internship/tree/main/Module%201
 
-<a href="https://github.com/Haseeb983/KPMG-Data-Analytics-Consulting-Internship/tree/main/Module%201">Task 1:<a/>
+<a href="https://github.com/Haseeb983/KPMG-Data-Analytics-Consulting-Internship/tree/main/Module%201"><h3>Task 1:<h3/><a/>
   
 In this task Data Quality Assessment is performed and issues in the dataset were mitigated. Issues identified are mentioned in the documentation available in task 1 folder.
 
